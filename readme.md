@@ -38,16 +38,13 @@ I specialize in crafting intuitive and high-performance digital products, focusi
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/mrsoserious/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://x.com/mr_SoSerious" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
   </a>
-  <a href="https://medium.com/@yourusername" target="_blank">
+  <a href="https://medium.com/@mr-soserious" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
@@ -55,5 +52,5 @@ I specialize in crafting intuitive and high-performance digital products, focusi
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SoSerious194&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
